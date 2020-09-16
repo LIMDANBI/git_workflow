@@ -1,3 +1,4 @@
+
 f32f32
 
 This is features/f3 's f32.txt
@@ -5,3 +6,15 @@ This is features/f3 's f32.txt
 hello world!
 
 By Seunghyeon Lee
+
+features/f3's f32.txt
+
+let's make conflict
+
+- Seunghyeon Lee, 2018042797
+
+features/f3-topic's f32.txt
+
+conflict success!
+
+
